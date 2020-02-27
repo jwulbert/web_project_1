@@ -32,8 +32,7 @@ Human information storage capacity
 The number of nerve synapses responsible for learning in an adult human
 
 420 million
-The number of adults under 25 with insufficient education for finding employment
-World Bank, 2017
+The number of adults under 25 with insufficient education for finding employment World Bank, 2017
 
 17 - 20 years old
 Peak learning age
